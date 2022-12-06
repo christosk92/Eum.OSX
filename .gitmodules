@@ -1,0 +1,3 @@
+[submodule "Eum"]
+	path = Eum
+	url = git@github.com:christosk92/Eum.git
